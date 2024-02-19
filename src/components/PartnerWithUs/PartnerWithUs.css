@@ -1,0 +1,43 @@
+.partnerWithUsCont {
+    position: relative;
+    height: 370px;
+    overflow: hidden;
+}
+
+.partnerImg {
+    height: 100%;
+    transform: rotateY(180deg);
+    background: #D9D9D9 url('https://s3-alpha-sig.figma.com/img/b936/380f/75dafedf1aa9fb0a728b2866b7638899?Expires=1708905600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NZHr0G~eaeKbX05QsE4nEDQrIpwcp6ftCyHT~sgzOJ6yfvzuov5YbJMoOhBhtnh8JU1tbyjmodaCokdb6TVruKLbxPOqX2VyYynWaiZObLDhEgMxU2IASCD9XVUiVoLPClpe-curKaIVjrr6ejy0ilXdUjXOtsFdlHq4tKA6WTdhhxVmYx1f697EDqqiXTyHn9G3tg1WAMGP76d1aDy0YOsk2IWmLW-SygJV0BoaBtid8uVEvSEgPTJpUrvvyNk6uDIi9~JWwqcjcwUODDhZhpS2Q7rXRypQYUgcmVQV3dbwPtIoz1Uj8fUqXXYn9DM-vjuZbkmuka2m8d1iGUZysw__') center/cover no-repeat;
+    opacity: 0.90;
+}
+
+.partnerTextCont {
+    width: 500.47px;
+    height: 186px;
+    position: absolute;
+    top: 50px;
+    left: 760px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.partnerTextCont>h1 {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58.09px;
+    color: #CA2531;
+}
+.partnerTextCont>p {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+.odriyoImg {
+    width: 117px;
+    height: 77.35px;
+    position: absolute;
+    top: 16px;
+    right: 5px;
+}

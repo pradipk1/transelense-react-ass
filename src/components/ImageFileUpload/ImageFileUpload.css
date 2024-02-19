@@ -1,0 +1,20 @@
+.imageUploadCont {
+    width: 510px;
+    position: relative;
+}
+.imageUploadCont>img {
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: 4px;
+    left: 340px;
+}
+.imageUploadCont>label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    height: 24px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #DA3545;
+}

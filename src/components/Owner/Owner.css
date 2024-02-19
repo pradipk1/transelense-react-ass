@@ -1,0 +1,96 @@
+.owner-sidebar-form-cont {
+    padding-top: 13px;
+}
+.ownerFormCont>h2 {
+    margin-bottom: 44px;
+}
+.ownerFormCont>p {
+    width: 190px;
+    height: 42px;
+    background-color: #90212C;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24.2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 44px;
+}
+
+.ownerFlexColCont>.textInpCont {
+    margin-bottom: 48px;
+}
+
+.ownerImagePickerCont {
+    width: 360px;
+    display: flex;
+    align-items: center;
+}
+.ownerImagePickerCont>div>img {
+    display: none;
+}
+
+.ownerRadioInpCont {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-top: 8px;
+}
+.ownerRadioInpCont>label {
+    font-size: 14px;
+    font-weight: 600;
+    color: #DA3545;
+}
+.ownerRadioInpCont>input {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    accent-color: #DA3545;
+}
+
+.ownerDoYouWantCont {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    bottom: 14px;
+}
+.doYouWantTextCont {
+    width: 379.31px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    margin-right: 20.69px;
+}
+.doYouWantTextCont>span {
+    margin-right: 30.42px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #000000;
+}
+.doYouWantTextCont>button, .ownerNoBtnCont>button {
+    width: 86px;
+    height: 42px;
+    border: 1px solid #DC3545;
+    border-radius: 8px;
+    color: #DC3545;
+    font-size: 14px;
+    background: transparent;
+    cursor: pointer;
+}
+
+.doYouWantTextCont>button:hover, .ownerNoBtnCont>button:hover {
+    background-color: #DC3545;
+    color: #FFFFFF;
+}
+
+.ownerNavigateBtnCont>button {
+    width: 310px;
+    height: 42px;
+    border-radius: 8px;
+    background-color: #DC3545;
+    color: #FFFFFF;
+    border: none;
+    font-size: 18px;
+}

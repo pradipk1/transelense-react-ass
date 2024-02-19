@@ -1,0 +1,45 @@
+.selectInpCont {
+    width: 360px;
+    position: relative;
+}
+.selectInpCont>img {
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: 4px;
+    right: 4px;
+}
+.selectInpCont>label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    height: 24px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #DA3545;
+}
+
+.selectCont {
+    position: relative;
+    width: 360px;
+}
+.selectCont>select {
+    width: 100%;
+    height: 50px;
+    padding-left: 16px;
+    background-color: #ece9e9;
+    border: 1px solid #12121229;
+    border-radius: 8px;
+    color: #121212;
+    font-size: 16px;
+    font-weight: 500;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+.selectCont>img {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: 13px;
+    right: 24px;
+}
